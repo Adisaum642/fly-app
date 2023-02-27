@@ -1,0 +1,107 @@
+.sub{
+position: absolute;
+top: 65%;
+bottom: 40%;
+    width: 1308px;
+height: 21px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.04em;
+
+color: #1262AE;
+}
+
+.update{
+position: absolute;
+top: 67%;
+bottom: 40%;
+    width: 1308px;
+height: 35px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #434343;
+}
+
+
+.from-flex{
+position: absolute;
+top: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 28px 30px;
+    gap: 17px;
+    
+    width: 1308px;
+    height: 302px;
+    
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.03);
+    border-radius: 12px;
+
+}
+
+.title{
+    width: 1248px;
+height: 34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 34px;
+/* identical to box height, or 189% */
+
+
+color: #576074;
+}
+
+
+.nameInput{
+    width: 1192px;
+height: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.15px;
+    
+    /* Text/Secondary */
+    
+    color: rgba(0, 0, 0, 0.6);
+
+}
+
+
+.submit{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 164px;
+height: 56px;
+
+background: #F99A0E;
+border-radius: 4px;
+}

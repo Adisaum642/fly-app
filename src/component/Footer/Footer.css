@@ -1,0 +1,102 @@
+.footer{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 50px 94px;
+gap: 44px;
+
+
+
+width: 1180px;
+height: 238px;
+
+background: linear-gradient(91.74deg, #0B5BA8 30.91%, #299BD8 100.98%);
+}
+
+
+.disc{
+display: flexbox;
+width: 156.87px;
+height: 0px;
+
+}
+
+
+.logo{
+    position: absolute;
+    height: 32px;
+width: 173.69143676757812px;
+
+
+left: 5%;
+right: 0.18%;
+top: 93%;
+bottom: 1.44%;
+
+
+}
+
+.paragraph{
+    position: absolute;
+    width: 546px;
+height: 81px;
+    top: 95%;
+    left:5%;
+    margin-top: 1%;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* or 150% */
+    
+    
+    color: #FFFFFF;
+
+
+}
+
+
+.content{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 33px 84px;
+gap: 44px;
+position: absolute;
+left: 80%;
+top: 94%;
+
+
+background: linear-gradient(91.74deg, #0B5BA8 30.91%, #299BD8 100.98%);
+}
+
+.fb{
+    position: absolute;
+left: 5%;
+right: 2%;
+top: 100%;
+bottom: 2%;
+
+background: #FFFFFF;
+}
+
+
+.compony{
+    position: absolute;
+width: 174.72px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 27px;
+/* identical to box height, or 135% */
+
+
+color: #FFFFFF;
+}

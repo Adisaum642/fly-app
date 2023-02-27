@@ -1,0 +1,129 @@
+.paris {
+
+    position: absolute;
+    top: 16%;
+    left: 1%;
+    border-radius: 3%;
+
+
+
+
+}
+
+.greece {
+    position: absolute;
+    top: 16%;
+    left: 25%;
+    border-radius: 10%;
+    height: 182px;
+    width: 288px;
+
+
+
+
+}
+
+.norway {
+    position: absolute;
+    top: 16%;
+    left: 50%;
+
+
+    border-radius: 3%;
+
+
+}
+
+.tuscany {
+
+    position: absolute;
+    top: 16%;
+    left: 75%;
+
+
+    border-radius: 3%;
+
+}
+
+.title-paris {
+    position: absolute;
+    top: 12%;
+    left: 11%;
+    width: 172.49px;
+    height: 23px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+
+}
+
+.price-paris {
+
+    position: absolute;
+    width: 90.92px;
+    height: 38px;
+    left: 210.88px;
+    top: 19%;
+
+    font-family: 'Baloo Bhai';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 38px;
+    /* identical to box height, or 100% */
+
+    text-align: right;
+
+    /* Studio / Darkmode / Allwhite #FFFFFF */
+
+    color: #FFFFFF;
+
+}
+
+
+.from {
+    position: absolute;
+    width: 52.53px;
+    height: 19px;
+    left: 245.88px;
+    top: 12%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: right;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+
+.title-greece {
+    position: absolute;
+    top: 14%;
+    left: 11%;
+    width: 172.49px;
+    height: 23px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+
+}
+
