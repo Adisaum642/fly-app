@@ -23,12 +23,12 @@ height: 0px;
 
 
 .logo{
-    position: absolute;
+    position: relative;
     height: 32px;
 width: 173.69143676757812px;
 
 
-left: 5%;
+left: 2%;
 right: 0.18%;
 top: 93%;
 bottom: 1.44%;
@@ -37,12 +37,12 @@ bottom: 1.44%;
 }
 
 .paragraph{
-    position: absolute;
+    position: relative;
     width: 546px;
 height: 81px;
     top: 95%;
-    left:5%;
-    margin-top: 1%;
+    left:2%;
+    margin-top: 4%;
     
     font-family: 'Roboto';
     font-style: normal;
@@ -73,30 +73,62 @@ background: linear-gradient(91.74deg, #0B5BA8 30.91%, #299BD8 100.98%);
 }
 
 .fb{
-    position: absolute;
-left: 5%;
-right: 2%;
-top: 100%;
-bottom: 2%;
+    position: relative;
+height: 28px;
 
-background: #FFFFFF;
+left: 1px;
+top: 95px;
+
 }
 
 
-.compony{
-    position: absolute;
+.company{
+    position: relative;
 width: 174.72px;
 height: 27px;
-left: 0px;
-top: 0px;
+left: 70px;
+top: -5px;
+bottom: 100px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 27px;
-/* identical to box height, or 135% */
-
 
 color: #FFFFFF;
+}
+
+.insta{
+    position: relative;
+height: 28px;
+width: 28.x;
+left: 5px;
+top: 95px;
+}
+
+.twit{
+    position: relative;
+height: 28px;
+width: 28.x;
+left: 10px;
+top: 95px;
+}
+
+.box{
+    position: relative;
+    width: 135.67px;
+    height: 19px;
+    left: 70px;
+    top: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF
+
 }
